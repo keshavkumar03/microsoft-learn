@@ -28645,6 +28645,7 @@ const Home = ({ name , title  })=>{
                 },
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                        className: "name",
                         children: name
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
@@ -28652,6 +28653,7 @@ const Home = ({ name , title  })=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                        className: "tittle",
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
