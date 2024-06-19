@@ -118,6 +118,12 @@ a:hover {
   padding: 24px 16px;
   text-align: center;
 }
+.name{
+  color:white;
+}
+.tittle{
+  color:white;
+}
 
 img.socialIcon {
   height: 30px;
