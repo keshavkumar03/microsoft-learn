@@ -113,13 +113,13 @@ a:hover {
   display: flex;
 }
 
+.name, .tittle {
+  color: #fff;
+}
+
 img.socialIcon {
   height: 30px;
   width: 30px;
-}
-
-.name, .tittle {
-  color: #fff;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
